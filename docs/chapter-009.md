@@ -3,11 +3,12 @@
 
 4개의 다른 활성화 함수(activation function)이 존재한다. 스레쉬홀드(threshold) 함수는 이진 결과를 낸다.
 
-<kbd>
-  <img src="../images/chapter-09-01.png">
-</kbd>
-
-<p><br/></p>
+<p style="width:80%">
+  <kbd>
+    <img src="../images/chapter-09-01.png">
+  </kbd>
+  <br/>
+</p>
 
 시그모이드(sigmoid) 함수는 값이 연속된 값을 가지며 결과 계층에서 사용하는 것이 좋다.
 
